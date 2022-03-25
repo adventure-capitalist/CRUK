@@ -61,3 +61,12 @@ Submit button should change to a disabled state and label should read “Submitt
 ## Tests
 
 Ensure your application has adequate test coverage.
+
+
+### Ashley's comments
+
+Things that could be added: 
+1) a pagination feature where the number of results returned from the api scrolls onto the next page if you click a button.
+2) a better conditional solution for different media types images for images, videos for videos.
+3) a few more tests based on different scenarios, to see if yup is performing as expected.
+
